@@ -1,2 +1,2 @@
-#!/bi/bash
-grep -A 3 root /etc/password
+#!/bin/bash
+grep -A 3 root /etc/passwd
